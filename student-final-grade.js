@@ -1,0 +1,6 @@
+// https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/javascript
+
+
+function finalGrade (exam, projects) {
+  return // final grade
+}
